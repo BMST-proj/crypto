@@ -1,5 +1,7 @@
 # crypto
 
+Strictly speaking, this is not part of BMST.
+
 TODO:
 - Port everything to GMP
 - Add padding to RSA (OAEP)
